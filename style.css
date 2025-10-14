@@ -21,11 +21,11 @@ button {
   padding: 10px 15px;
   border: none;
   border-radius: 10px;
-  background-color: 7fffd4;
+  background-color: 6cc644;
   color: white;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: 7fffd4;
+  background-color: 6cc644;
 }
