@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: 7fffd4;
+  background-color: aquamarine;
 }
 
 .card {
@@ -21,11 +21,11 @@ button {
   padding: 10px 15px;
   border: none;
   border-radius: 10px;
-  background-color: 7fffd4;
-  color: aquamarine;
+  background-color: aquamarine;
+  color: black;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: 7fffd4;
+  background-color: aquamarine;
 }
